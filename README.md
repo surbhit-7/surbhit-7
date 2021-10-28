@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **surbhitvishwakarma7@gmail.com**
 
+-  👋linkedin **https://www.linkedin.com/in/surbhit-vishwakarma-8985491b2/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surbhitvishwak3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surbhitvishwak3" height="30" width="40" /></a>
