@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surbhit Vishwakarma</h1>
+![goku-icegif-1](https://user-images.githubusercontent.com/83189259/139328290-c0d2bb39-cf30-4716-b9f0-c7a391697b3f.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surbhit-7&label=Profile%20views&color=0e75b6&style=flat" alt="surbhit-7" /> </p>
 
 - 🌱 I’m currently learning **DSA , FLASK**
@@ -8,6 +9,8 @@
 - 📫 How to reach me **surbhitvishwakarma7@gmail.com**
 
 -  👋linkedin **https://www.linkedin.com/in/surbhit-vishwakarma-8985491b2/**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
