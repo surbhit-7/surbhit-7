@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/surbhitvishwak3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surbhitvishwak3" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/surbhit_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="surbhit_7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@surbhitvishwaka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@surbhitvishwaka1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/surbhitvishwaka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surbhitvishwaka1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/surbhitvishwakarma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surbhitvishwakarma7" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/surbhit7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surbhit7" height="30" width="40" /></a>
 </p>
