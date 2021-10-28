@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surbhit Vishwakarma</h1>
-![goku-icegif-1](https://user-images.githubusercontent.com/83189259/139328290-c0d2bb39-cf30-4716-b9f0-c7a391697b3f.gif)
+![goku-icegif-1](https://user-images.githubusercontent.com/83189259/139328452-577de744-3ca6-4f11-8999-5ec1815c1ab9.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surbhit-7&label=Profile%20views&color=0e75b6&style=flat" alt="surbhit-7" /> </p>
 
 - 🌱 I’m currently learning **DSA , FLASK**
